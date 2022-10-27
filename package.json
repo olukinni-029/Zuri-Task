@@ -1,0 +1,20 @@
+{
+  "name": "zuri-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olukinni-029/Zuri-Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olukinni-029/Zuri-Task/issues"
+  },
+  "homepage": "https://github.com/olukinni-029/Zuri-Task#readme"
+}
