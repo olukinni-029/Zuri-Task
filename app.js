@@ -9,7 +9,7 @@ const user ={
 }; 
 
 
-const port = 6340;
+const PORT = 6340;
 
 const server = http.createServer((req,res)=>{
     if (req.url === '/') {
@@ -27,6 +27,6 @@ const server = http.createServer((req,res)=>{
 
 
 
-server.listen(port,()=>{
-    console.log(`Server is running on http://localhost:${port}`);
+server.listen(PORT,()=>{
+    console.log(`Server is running on http://localhost:${PORT}`);
 });
